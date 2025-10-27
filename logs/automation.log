@@ -1,0 +1,72 @@
+10:52:48.539 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:15)oggger - *****  Starting AccountRegistrationTest *****
+10:52:48.730 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:19)oggger - Clicked on MyAccount Link
+10:52:49.220 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:21)oggger - Clicked on Register Link
+10:52:49.222 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:23)oggger - Providing customer details
+10:52:51.226 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:33)oggger - Validating expected message.
+10:52:51.317 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:49)oggger - ***** Finished AccountRegistrationTest *****
+10:52:53.188 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:16)oggger - ***** Starting LoginTest ******
+10:52:54.951 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:41)oggger - ***** Finished LoginTest ******
+10:53:03.063 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:15)oggger - *****  Starting AccountRegistrationTest *****
+10:53:03.365 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:19)oggger - Clicked on MyAccount Link
+10:53:03.952 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:21)oggger - Clicked on Register Link
+10:53:03.952 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:23)oggger - Providing customer details
+10:53:05.306 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:33)oggger - Validating expected message.
+10:53:05.363 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:49)oggger - ***** Finished AccountRegistrationTest *****
+10:53:11.329 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:16)oggger - ***** Starting LoginTest ******
+10:53:13.775 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:41)oggger - ***** Finished LoginTest ******
+11:50:46.453 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Rajat Gupta\eclipse-workspace\OpenCartV12\grid-docker.xml"
+11:50:46.867 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Rajat Gupta\eclipse-workspace\OpenCartV12\grid-docker.xml
+
+11:50:56.025 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:15)oggger - *****  Starting AccountRegistrationTest *****
+11:50:56.197 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:19)oggger - Clicked on MyAccount Link
+11:50:56.770 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:21)oggger - Clicked on Register Link
+11:50:56.771 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:23)oggger - Providing customer details
+11:50:58.807 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:33)oggger - Validating expected message.
+11:50:58.897 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:49)oggger - ***** Finished AccountRegistrationTest *****
+11:51:00.584 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:16)oggger - ***** Starting LoginTest ******
+11:51:02.767 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:41)oggger - ***** Finished LoginTest ******
+11:51:12.303 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:15)oggger - *****  Starting AccountRegistrationTest *****
+11:51:12.468 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:19)oggger - Clicked on MyAccount Link
+11:51:12.906 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:21)oggger - Clicked on Register Link
+11:51:12.907 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:23)oggger - Providing customer details
+11:51:14.192 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:33)oggger - Validating expected message.
+11:51:14.234 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:49)oggger - ***** Finished AccountRegistrationTest *****
+11:51:20.793 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:16)oggger - ***** Starting LoginTest ******
+11:51:22.265 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:41)oggger - ***** Finished LoginTest ******
+12:50:16.151 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Rajat Gupta\eclipse-workspace\OpenCartV12\master.xml"
+12:50:20.543 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:15)oggger - *****  Starting AccountRegistrationTest *****
+12:50:20.818 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:19)oggger - Clicked on MyAccount Link
+12:50:21.290 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:21)oggger - Clicked on Register Link
+12:50:21.307 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:23)oggger - Providing customer details
+12:50:22.727 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:33)oggger - Validating expected message.
+12:50:22.769 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:49)oggger - ***** Finished AccountRegistrationTest *****
+12:50:24.570 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:16)oggger - ***** Starting LoginTest ******
+12:50:26.658 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:41)oggger - ***** Finished LoginTest ******
+12:50:48.143 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Rajat Gupta\eclipse-workspace\OpenCartV12\master.xml"
+12:50:50.662 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:15)oggger - *****  Starting AccountRegistrationTest *****
+12:50:50.946 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:19)oggger - Clicked on MyAccount Link
+12:50:51.298 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:21)oggger - Clicked on Register Link
+12:50:51.300 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:23)oggger - Providing customer details
+12:50:51.751 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:33)oggger - Validating expected message.
+12:50:52.515 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:49)oggger - ***** Finished AccountRegistrationTest *****
+12:50:54.429 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:16)oggger - ***** Starting LoginTest ******
+12:50:55.918 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:41)oggger - ***** Finished LoginTest ******
+13:12:58.525 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Rajat Gupta\eclipse-workspace\OpenCartV12\master.xml"
+13:13:02.323 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:15)oggger - *****  Starting AccountRegistrationTest *****
+13:13:02.614 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:19)oggger - Clicked on MyAccount Link
+13:13:02.977 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:21)oggger - Clicked on Register Link
+13:13:02.978 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:23)oggger - Providing customer details
+13:13:03.460 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:33)oggger - Validating expected message.
+13:13:04.182 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:49)oggger - ***** Finished AccountRegistrationTest *****
+13:13:05.979 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:16)oggger - ***** Starting LoginTest ******
+13:13:07.155 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:41)oggger - ***** Finished LoginTest ******
+13:24:36.270 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Rajat Gupta\eclipse-workspace\OpenCartV12\master.xml"
+13:24:39.653 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:15)oggger - *****  Starting AccountRegistrationTest *****
+13:24:39.898 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:19)oggger - Clicked on MyAccount Link
+13:24:40.247 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:21)oggger - Clicked on Register Link
+13:24:40.249 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:23)oggger - Providing customer details
+13:24:41.437 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:33)oggger - Validating expected message.
+13:24:41.471 [main] INFO  testCases.AccountRegistrationTest.Register(AccountRegistrationTest.java:49)oggger - ***** Finished AccountRegistrationTest *****
+13:24:43.242 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:16)oggger - ***** Starting LoginTest ******
+13:24:45.066 [main] INFO  testCases.LoginTest.verify_Login(LoginTest.java:41)oggger - ***** Finished LoginTest ******
